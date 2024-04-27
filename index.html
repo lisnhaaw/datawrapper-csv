@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datawrapper CSV</title>
+    <!-- Sisipkan Pustaka Papa Parse -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+    <h1>Datawrapper CSV Example</h1>
+    <div id="csv_table"></div>
+
+    <script>
+        // Ambil data dari file CSV
+        fetch('https://raw.githubusercontent.com/lisnhaaw/datawrapper-csv/main/Dashboard%20Asia-Pacific.csv')
+            .then(response => response.text())
+            .then(data => {
+                const csvData = Papa.parse(data, { header: true });
+                const table = document.createElement('table');
+                const thead = table.createTHead();
+                const tbody = table.createTBody();
+
+                // Buat header tabel
+                const headers = Object.keys(csvData.data[0]);
+                const headerRow = thead.insertRow();
+                headers.forEach(headerText => {
+                    const th = document.createElement('th');
+                    th.textContent = headerText;
+                    headerRow.appendChild(th);
+                });
+
+                // Isi data tabel
+                csvData.data.forEach(rowData => {
+                    const row = tbody.insertRow();
+                    headers.forEach(header => {
+                        const cell = row.insertCell();
+                        cell.textContent = rowData[header];
+                    });
+                });
+
+                document.getElementById('csv_table').appendChild(table);
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
+</body>
+</html>
