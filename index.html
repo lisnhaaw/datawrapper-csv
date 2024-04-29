@@ -12,8 +12,11 @@
     <div id="csv_table"></div>
 
     <script>
-        // Ambil data dari file CSV
-        fetch('https://raw.githubusercontent.com/lisnhaaw/datawrapper-csv/main/Dashboard%20Asia-Pacific.csv')
+        // Tautan langsung ke file CSV di Google Drive
+        const googleDriveCSVLink = 'https://drive.google.com/uc?export=download&id=16uta_SQlWgcAZuoD2qREdR0RVOk6DLkM';
+
+        // Ambil data dari file CSV di Google Drive
+        fetch(googleDriveCSVLink)
             .then(response => response.text())
             .then(data => {
                 const csvData = Papa.parse(data, { header: true });
