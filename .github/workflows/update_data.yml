@@ -16,9 +16,9 @@ jobs:
       - name: Download CSV from Google Drive
         uses: wei/pull@v2
         with:
-          path: path/to/your/csv.csv # Ganti dengan path menuju file CSV di repositori
+          path: Dashboard Asia-Pacific.csv # Ganti dengan path menuju file CSV di repositori
           branch: main
-          repo: username/repo # Ganti dengan username dan nama repositori Anda
+          repo: lisnhaaw/repo # Ganti dengan username dan nama repositori Anda
           token: ${{ secrets.GDRIVE_TOKEN }} # Ganti dengan secret untuk token autentikasi ke Google Drive
 
       - name: Commit and Push Changes
