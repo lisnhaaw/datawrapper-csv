@@ -1,0 +1,30 @@
+name: Update CSV from Google Drive
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_csv:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Download CSV from Google Drive
+        uses: wei/pull@v2
+        with:
+          path: path/to/your/csv.csv # Ganti dengan path menuju file CSV di repositori
+          branch: main
+          repo: username/repo # Ganti dengan username dan nama repositori Anda
+          token: ${{ secrets.GDRIVE_TOKEN }} # Ganti dengan secret untuk token autentikasi ke Google Drive
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update CSV from Google Drive"
+          git push
