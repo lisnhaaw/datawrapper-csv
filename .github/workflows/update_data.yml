@@ -2,7 +2,7 @@ name: Update CSV
 
 on:
   schedule:
-    - cron: '0 7 * * *'  # Menjalankan aliran kerja setiap hari pada pukul 00:00 UTC
+    - cron: '0 9 * * *'  # Menjalankan aliran kerja setiap hari pada pukul 00:00 UTC
 
 jobs:
   update_csv:
