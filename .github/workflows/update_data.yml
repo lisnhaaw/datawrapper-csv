@@ -13,14 +13,15 @@ jobs:
       
       - name: Update CSV from Google Drive
         run: |
-          # Add commands here to fetch and update the CSV from Google Drive
-          # Example: curl or wget commands
+          # Mengunduh file CSV dari Google Drive
+          curl -L "https://drive.google.com/uc?export=download&id=1mYOnLthYVohjYxHt-VA7S118bNE02N4Y" -o data.csv
+          # Anda perlu mengganti YOUR_FILE_ID dengan ID file CSV di Google Drive Anda
           
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+          git add data.csv
           git commit -m "Update CSV from Google Drive"
       
       - name: Push changes
