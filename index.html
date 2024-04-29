@@ -12,44 +12,20 @@
     <div id="csv_table"></div>
 
     <script>
-        // Ambil data dari folder Google Drive
-        const folderName = 'Rekomendasi Saham Asia'; // Ganti dengan nama folder Google Drive Anda
+        // Tautan langsung ke file CSV di Google Drive
+        const googleDriveCSVLink = 'https://drive.google.com/uc?export=download&id=1mYOnLthYVohjYxHt-VA7S118bNE02N4Y';
 
-        // Fungsi untuk mengambil file CSV dari Google Drive menggunakan Google Drive API
-        async function fetchCSVFromGoogleDrive(folderName) {
-            try {
-                // Mengambil daftar file dari folder Google Drive
-                const response = await fetch(`https://www.googleapis.com/drive/v3/files?q='${folderName}' in parents&key=AIzaSyAkyhyKLorThqufzYOwKA5aZTdI5qqTao8`);
-                const data = await response.json();
-
-                // Mengambil ID file CSV dari folder
-                const csvFileId = data.files.find(file => file.mimeType === 'text/csv').id;
-
-                // Mengambil isi file CSV menggunakan ID file
-                const csvResponse = await fetch(`https://www.googleapis.com/drive/v3/files/${csvFileId}?alt=media&key=YOUR_API_KEY`);
-                const csvData = await csvResponse.text();
-
-                return csvData;
-            } catch (error) {
-                console.error('Error:', error);
-                throw error;
-            }
-        }
-
-        // Menampilkan data CSV dalam tabel HTML
-        async function displayCSV() {
-            try {
-                // Mengambil data CSV dari Google Drive
-                const csvData = await fetchCSVFromGoogleDrive(folderName);
-
-                // Parsing data CSV menggunakan Papa Parse
-                const parsedCSV = Papa.parse(csvData, { header: true });
+        // Ambil data dari file CSV di Google Drive
+        fetch(googleDriveCSVLink)
+            .then(response => response.text())
+            .then(data => {
+                const csvData = Papa.parse(data, { header: true });
                 const table = document.createElement('table');
                 const thead = table.createTHead();
                 const tbody = table.createTBody();
 
                 // Buat header tabel
-                const headers = Object.keys(parsedCSV.data[0]);
+                const headers = Object.keys(csvData.data[0]);
                 const headerRow = thead.insertRow();
                 headers.forEach(headerText => {
                     const th = document.createElement('th');
@@ -58,7 +34,7 @@
                 });
 
                 // Isi data tabel
-                parsedCSV.data.forEach(rowData => {
+                csvData.data.forEach(rowData => {
                     const row = tbody.insertRow();
                     headers.forEach(header => {
                         const cell = row.insertCell();
@@ -66,15 +42,9 @@
                     });
                 });
 
-                // Tampilkan tabel di HTML
                 document.getElementById('csv_table').appendChild(table);
-            } catch (error) {
-                console.error('Error:', error);
-            }
-        }
-
-        // Panggil fungsi untuk menampilkan data CSV saat halaman dimuat
-        displayCSV();
+            })
+            .catch(error => console.error('Error:', error));
     </script>
 </body>
 </html>
