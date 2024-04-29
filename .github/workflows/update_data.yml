@@ -1,34 +1,29 @@
-name: Update Data
+name: Update CSV
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 9 * * *' # Menjalankan alur kerja setiap hari jam 7 pagi
+    - cron: '0 7 * * *'  # Menjalankan aliran kerja setiap hari pada pukul 00:00 UTC
 
 jobs:
-  update_data:
+  update_csv:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Download CSV from Google Drive
+      
+      - name: Update CSV from Google Drive
         run: |
-          # Script untuk mengunduh file CSV dari Google Drive
-          # Ganti dengan script atau perintah yang sesuai untuk mengunduh file
-
-      - name: Update CSV in Repository
-        run: |
-          # Script untuk memperbarui file CSV di repositori GitHub
-          # Ganti dengan script atau perintah yang sesuai untuk memperbarui file
+          # Add commands here to fetch and update the CSV from Google Drive
+          # Example: curl or wget commands
           
-      - name: Commit Changes
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Update CSV"
-          git push
+          git commit -m "Update CSV from Google Drive"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
