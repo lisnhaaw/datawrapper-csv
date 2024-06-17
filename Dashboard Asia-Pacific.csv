@@ -1,5 +1,5 @@
 Country code,Index,Country,Region,Previous,Last,Change,%,Googlefinance Ticker,Direction
-:TH:,SET Index,:TH: Thailand,Asean,1307.02,1296.59,-10.43,-0.7979985004055026,-,min
+:TH:,SET Index,:TH: Thailand,Asean,1306.56,1296.59,-9.97,-0.7630724957139359,-,min
 :VN:,VN 30,:VN: Vietnam,Asean,1316.46,1309.7,-6.76,-0.5134983212554882,-,min
 :PH:,PSEi,:PH: Philipines,Asean,6390.83,6383.7,-7.13,-0.11156610330739514,INDEXBKK:SSET,min
 :IN:,SENSEX,:IN: India,Asia-Pacific,76926.07,76992.77,66.7,0.0867066262451728,VNINDEX:IND,plus
