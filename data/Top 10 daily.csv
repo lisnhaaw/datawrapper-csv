@@ -1,12 +1,12 @@
 ,,,,,,07 April 2025,
 Emiten,Perusahaan,H-1,Open,Close,Penurunan,Emiten,Penurunan
-TIRA,TIRA^Tira Austenite Tbk^,1380,1380,1725,0.25,TIRA^Tira Austenite Tbk^,0.25
-LIFE,LIFE^MSIG Life Insurance Indonesia^,5725,5675,6850,0.19650655021834051,LIFE^MSIG Life Insurance Indonesia^,0.19650655021834051
-JECC,JECC^Jembo Cable Company Tbk.^,750,720,880,0.17333333333333334,JECC^Jembo Cable Company Tbk.^,0.17333333333333334
-CBDK,CBDK^Bangun Kosambi Sukses Tbk.^,5075,5800,5950,0.17241379310344818,CBDK^Bangun Kosambi Sukses Tbk.^,0.17241379310344818
-CLEO,CLEO^Sariguna Primatirta Tbk.^,1220,1225,1430,0.1721311475409837,CLEO^Sariguna Primatirta Tbk.^,0.1721311475409837
-BOAT,BOAT^Newport Marine Services Tbk.^,95,101,111,0.16842105263157903,BOAT^Newport Marine Services Tbk.^,0.16842105263157903
-IPOL,IPOL^Indopoly Swakarsa Industry Tbk^,117,118,133,0.1367521367521367,IPOL^Indopoly Swakarsa Industry Tbk^,0.1367521367521367
-ATIC,ATIC^Anabatic Technologies Tbk.^,406,406,460,0.13300492610837433,ATIC^Anabatic Technologies Tbk.^,0.13300492610837433
-MTLA,MTLA^Metropolitan Land Tbk.^,430,422,486,0.13023255813953494,MTLA^Metropolitan Land Tbk.^,0.13023255813953494
-SMIL,SMIL^Sarana Mitra Luas Tbk.^,370,372,416,0.12432432432432439,SMIL^Sarana Mitra Luas Tbk.^,0.12432432432432439
+TIRA,TIRA^Tira Austenite Tbk^,,,,0,TIRA^Tira Austenite Tbk^,0
+MTLA,MTLA^Metropolitan Land Tbk.^,,,,0,MTLA^Metropolitan Land Tbk.^,0
+LIFE,LIFE^MSIG Life Insurance Indonesia^,,,,0,LIFE^MSIG Life Insurance Indonesia^,0
+JECC,JECC^Jembo Cable Company Tbk.^,,,,0,JECC^Jembo Cable Company Tbk.^,0
+IPOL,IPOL^Indopoly Swakarsa Industry Tbk^,,,,0,IPOL^Indopoly Swakarsa Industry Tbk^,0
+BOAT,BOAT^Newport Marine Services Tbk.^,,,,0,BOAT^Newport Marine Services Tbk.^,0
+ATIC,ATIC^Anabatic Technologies Tbk.^,,,,0,ATIC^Anabatic Technologies Tbk.^,0
+SMIL,SMIL^Sarana Mitra Luas Tbk.^,416,380,382,-0.08173076923076927,SMIL^Sarana Mitra Luas Tbk.^,-0.08173076923076927
+CLEO,CLEO^Sariguna Primatirta Tbk.^,1430,1220,1285,-0.10139860139860135,CLEO^Sariguna Primatirta Tbk.^,-0.10139860139860135
+CBDK,CBDK^Bangun Kosambi Sukses Tbk.^,5950,5075,5075,-0.1470588235294118,CBDK^Bangun Kosambi Sukses Tbk.^,-0.1470588235294118
