@@ -120,7 +120,7 @@ Fri Feb 13 2015 00:00:00 GMT+0700 (Western Indonesia Time),18019.35,5374.16,13 F
 Sat Feb 14 2015 00:00:00 GMT+0700 (Western Indonesia Time),18019.35,5374.16,14 February 2015,5374.16
 Sun Feb 15 2015 00:00:00 GMT+0700 (Western Indonesia Time),18019.35,5374.16,15 February 2015,5374.16
 Mon Feb 16 2015 00:00:00 GMT+0700 (Western Indonesia Time),18019.35,5325.49,16 February 2015,5325.49
-Tue Feb 17 2015 00:00:00 GMT+0700 (Western Indonesia Time),18047.58,5337.5,17 February 2015,5337.5
+Tue Feb 17 2015 00:00:00 GMT+0700 (Western Indonesia Time),18019.35,5337.5,17 February 2015,5337.5
 Wed Feb 18 2015 00:00:00 GMT+0700 (Western Indonesia Time),18029.85,5390.45,18 February 2015,5390.45
 Thu Feb 19 2015 00:00:00 GMT+0700 (Western Indonesia Time),17985.77,5390.45,19 February 2015,5390.45
 Fri Feb 20 2015 00:00:00 GMT+0700 (Western Indonesia Time),18140.44,5400.1,20 February 2015,5400.1
@@ -193,7 +193,7 @@ Mon Apr 27 2015 00:00:00 GMT+0700 (Western Indonesia Time),18037.97,5245.45,27 A
 Tue Apr 28 2015 00:00:00 GMT+0700 (Western Indonesia Time),18110.14,5242.16,28 April 2015,5242.16
 Wed Apr 29 2015 00:00:00 GMT+0700 (Western Indonesia Time),18035.53,5105.56,29 April 2015,5105.56
 Thu Apr 30 2015 00:00:00 GMT+0700 (Western Indonesia Time),17840.52,5086.43,30 April 2015,5086.43
-Fri May 01 2015 00:00:00 GMT+0700 (Western Indonesia Time),18024.06,5086.43,01 May 2015,5086.43
+Fri May 01 2015 00:00:00 GMT+0700 (Western Indonesia Time),17840.52,5086.43,01 May 2015,5086.43
 Sat May 02 2015 00:00:00 GMT+0700 (Western Indonesia Time),18070.4,5086.43,02 May 2015,5086.43
 Sun May 03 2015 00:00:00 GMT+0700 (Western Indonesia Time),18070.4,5086.43,03 May 2015,5086.43
 Mon May 04 2015 00:00:00 GMT+0700 (Western Indonesia Time),18070.4,5141.14,04 May 2015,5141.14
@@ -228,12 +228,12 @@ Mon Jun 01 2015 00:00:00 GMT+0700 (Western Indonesia Time),18040.37,5213.82,01 J
 Tue Jun 02 2015 00:00:00 GMT+0700 (Western Indonesia Time),18011.94,5213.82,02 June 2015,5213.82
 Wed Jun 03 2015 00:00:00 GMT+0700 (Western Indonesia Time),18076.27,5130.5,03 June 2015,5130.5
 Thu Jun 04 2015 00:00:00 GMT+0700 (Western Indonesia Time),17905.58,5095.82,04 June 2015,5095.82
-Fri Jun 05 2015 00:00:00 GMT+0700 (Western Indonesia Time),17849.46,5100.57,05 June 2015,5100.57
+Fri Jun 05 2015 00:00:00 GMT+0700 (Western Indonesia Time),17905.58,5100.57,05 June 2015,5100.57
 Sat Jun 06 2015 00:00:00 GMT+0700 (Western Indonesia Time),17766.55,5100.57,06 June 2015,5100.57
 Sun Jun 07 2015 00:00:00 GMT+0700 (Western Indonesia Time),17766.55,5100.57,07 June 2015,5100.57
 Mon Jun 08 2015 00:00:00 GMT+0700 (Western Indonesia Time),17766.55,5014.99,08 June 2015,5014.99
 Tue Jun 09 2015 00:00:00 GMT+0700 (Western Indonesia Time),17764.04,4899.88,09 June 2015,4899.88
-Wed Jun 10 2015 00:00:00 GMT+0700 (Western Indonesia Time),18000.4,4933.56,10 June 2015,4933.56
+Wed Jun 10 2015 00:00:00 GMT+0700 (Western Indonesia Time),17764.04,4933.56,10 June 2015,4933.56
 Thu Jun 11 2015 00:00:00 GMT+0700 (Western Indonesia Time),18039.37,4928.81,11 June 2015,4928.81
 Fri Jun 12 2015 00:00:00 GMT+0700 (Western Indonesia Time),17898.84,4935.82,12 June 2015,4935.82
 Sat Jun 13 2015 00:00:00 GMT+0700 (Western Indonesia Time),17791.17,4935.82,13 June 2015,4935.82
@@ -247,7 +247,7 @@ Sat Jun 20 2015 00:00:00 GMT+0700 (Western Indonesia Time),18119.78,4985.01,20 J
 Sun Jun 21 2015 00:00:00 GMT+0700 (Western Indonesia Time),18119.78,4985.01,21 June 2015,4985.01
 Mon Jun 22 2015 00:00:00 GMT+0700 (Western Indonesia Time),18119.78,4959.25,22 June 2015,4959.25
 Tue Jun 23 2015 00:00:00 GMT+0700 (Western Indonesia Time),18144.07,4937.65,23 June 2015,4937.65
-Wed Jun 24 2015 00:00:00 GMT+0700 (Western Indonesia Time),17966.07,4953.52,24 June 2015,4953.52
+Wed Jun 24 2015 00:00:00 GMT+0700 (Western Indonesia Time),18144.07,4953.52,24 June 2015,4953.52
 Thu Jun 25 2015 00:00:00 GMT+0700 (Western Indonesia Time),17890.36,4920.04,25 June 2015,4920.04
 Fri Jun 26 2015 00:00:00 GMT+0700 (Western Indonesia Time),17946.68,4923.01,26 June 2015,4923.01
 Sat Jun 27 2015 00:00:00 GMT+0700 (Western Indonesia Time),17596.35,4923.01,27 June 2015,4923.01
@@ -292,7 +292,7 @@ Tue Aug 04 2015 00:00:00 GMT+0700 (Western Indonesia Time),17550.69,4781.09,04 A
 Wed Aug 05 2015 00:00:00 GMT+0700 (Western Indonesia Time),17540.47,4850.53,05 August 2015,4850.53
 Thu Aug 06 2015 00:00:00 GMT+0700 (Western Indonesia Time),17419.75,4806.56,06 August 2015,4806.56
 Fri Aug 07 2015 00:00:00 GMT+0700 (Western Indonesia Time),17373.38,4770.3,07 August 2015,4770.3
-Sat Aug 08 2015 00:00:00 GMT+0700 (Western Indonesia Time),17615.17,4770.3,08 August 2015,4770.3
+Sat Aug 08 2015 00:00:00 GMT+0700 (Western Indonesia Time),17373.38,4770.3,08 August 2015,4770.3
 Sun Aug 09 2015 00:00:00 GMT+0700 (Western Indonesia Time),17615.17,4770.3,09 August 2015,4770.3
 Mon Aug 10 2015 00:00:00 GMT+0700 (Western Indonesia Time),17615.17,4748.95,10 August 2015,4748.95
 Tue Aug 11 2015 00:00:00 GMT+0700 (Western Indonesia Time),17402.84,4622.59,11 August 2015,4622.59
@@ -400,7 +400,7 @@ Fri Nov 20 2015 00:00:00 GMT+0700 (Western Indonesia Time),17823.81,4561.33,20 N
 Sat Nov 21 2015 00:00:00 GMT+0700 (Western Indonesia Time),17792.68,4561.33,21 November 2015,4561.33
 Sun Nov 22 2015 00:00:00 GMT+0700 (Western Indonesia Time),17792.68,4561.33,22 November 2015,4561.33
 Mon Nov 23 2015 00:00:00 GMT+0700 (Western Indonesia Time),17792.68,4541.07,23 November 2015,4541.07
-Tue Nov 24 2015 00:00:00 GMT+0700 (Western Indonesia Time),17812.19,4545.38,24 November 2015,4545.38
+Tue Nov 24 2015 00:00:00 GMT+0700 (Western Indonesia Time),17792.68,4545.38,24 November 2015,4545.38
 Wed Nov 25 2015 00:00:00 GMT+0700 (Western Indonesia Time),17813.39,4585.55,25 November 2015,4585.55
 Thu Nov 26 2015 00:00:00 GMT+0700 (Western Indonesia Time),17813.39,4597.06,26 November 2015,4597.06
 Fri Nov 27 2015 00:00:00 GMT+0700 (Western Indonesia Time),17798.49,4560.56,27 November 2015,4560.56
@@ -485,7 +485,7 @@ Sat Feb 13 2016 00:00:00 GMT+0700 (Western Indonesia Time),15973.84,4714.39,13 F
 Sun Feb 14 2016 00:00:00 GMT+0700 (Western Indonesia Time),15973.84,4714.39,14 February 2016,4714.39
 Mon Feb 15 2016 00:00:00 GMT+0700 (Western Indonesia Time),15973.84,4740.73,15 February 2016,4740.73
 Tue Feb 16 2016 00:00:00 GMT+0700 (Western Indonesia Time),16196.41,4745,16 February 2016,4745
-Wed Feb 17 2016 00:00:00 GMT+0700 (Western Indonesia Time),16453.83,4765.51,17 February 2016,4765.51
+Wed Feb 17 2016 00:00:00 GMT+0700 (Western Indonesia Time),16196.41,4765.51,17 February 2016,4765.51
 Thu Feb 18 2016 00:00:00 GMT+0700 (Western Indonesia Time),16413.43,4778.79,18 February 2016,4778.79
 Fri Feb 19 2016 00:00:00 GMT+0700 (Western Indonesia Time),16391.99,4697.56,19 February 2016,4697.56
 Sat Feb 20 2016 00:00:00 GMT+0700 (Western Indonesia Time),16620.66,4697.56,20 February 2016,4697.56
@@ -660,8 +660,8 @@ Sat Aug 06 2016 00:00:00 GMT+0700 (Western Indonesia Time),18529.29,5420.25,06 A
 Sun Aug 07 2016 00:00:00 GMT+0700 (Western Indonesia Time),18529.29,5420.25,07 August 2016,5420.25
 Mon Aug 08 2016 00:00:00 GMT+0700 (Western Indonesia Time),18529.29,5458.98,08 August 2016,5458.98
 Tue Aug 09 2016 00:00:00 GMT+0700 (Western Indonesia Time),18533.05,5440.29,09 August 2016,5440.29
-Wed Aug 10 2016 00:00:00 GMT+0700 (Western Indonesia Time),18495.66,5423.95,10 August 2016,5423.95
-Thu Aug 11 2016 00:00:00 GMT+0700 (Western Indonesia Time),18613.52,5419.09,11 August 2016,5419.09
+Wed Aug 10 2016 00:00:00 GMT+0700 (Western Indonesia Time),18533.05,5423.95,10 August 2016,5423.95
+Thu Aug 11 2016 00:00:00 GMT+0700 (Western Indonesia Time),18533.05,5419.09,11 August 2016,5419.09
 Fri Aug 12 2016 00:00:00 GMT+0700 (Western Indonesia Time),18576.47,5377.2,12 August 2016,5377.2
 Sat Aug 13 2016 00:00:00 GMT+0700 (Western Indonesia Time),18636.05,5377.2,13 August 2016,5377.2
 Sun Aug 14 2016 00:00:00 GMT+0700 (Western Indonesia Time),18636.05,5377.2,14 August 2016,5377.2
@@ -764,7 +764,7 @@ Fri Nov 18 2016 00:00:00 GMT+0700 (Western Indonesia Time),18867.93,5170.11,18 N
 Sat Nov 19 2016 00:00:00 GMT+0700 (Western Indonesia Time),18956.69,5170.11,19 November 2016,5170.11
 Sun Nov 20 2016 00:00:00 GMT+0700 (Western Indonesia Time),18956.69,5170.11,20 November 2016,5170.11
 Mon Nov 21 2016 00:00:00 GMT+0700 (Western Indonesia Time),18956.69,5148.32,21 November 2016,5148.32
-Tue Nov 22 2016 00:00:00 GMT+0700 (Western Indonesia Time),19023.87,5204.67,22 November 2016,5204.67
+Tue Nov 22 2016 00:00:00 GMT+0700 (Western Indonesia Time),18956.69,5204.67,22 November 2016,5204.67
 Wed Nov 23 2016 00:00:00 GMT+0700 (Western Indonesia Time),19083.18,5212,23 November 2016,5212
 Thu Nov 24 2016 00:00:00 GMT+0700 (Western Indonesia Time),19083.18,5107.62,24 November 2016,5107.62
 Fri Nov 25 2016 00:00:00 GMT+0700 (Western Indonesia Time),19152.14,5122.1,25 November 2016,5122.1
@@ -922,7 +922,7 @@ Tue Apr 25 2017 00:00:00 GMT+0700 (Western Indonesia Time),20996.12,5680.8,25 Ap
 Wed Apr 26 2017 00:00:00 GMT+0700 (Western Indonesia Time),20975.09,5726.53,26 April 2017,5726.53
 Thu Apr 27 2017 00:00:00 GMT+0700 (Western Indonesia Time),20981.33,5707.03,27 April 2017,5707.03
 Fri Apr 28 2017 00:00:00 GMT+0700 (Western Indonesia Time),20940.51,5685.3,28 April 2017,5685.3
-Sat Apr 29 2017 00:00:00 GMT+0700 (Western Indonesia Time),20913.46,5685.3,29 April 2017,5685.3
+Sat Apr 29 2017 00:00:00 GMT+0700 (Western Indonesia Time),20940.51,5685.3,29 April 2017,5685.3
 Sun Apr 30 2017 00:00:00 GMT+0700 (Western Indonesia Time),20913.46,5685.3,30 April 2017,5685.3
 Mon May 01 2017 00:00:00 GMT+0700 (Western Indonesia Time),20913.46,5685.3,01 May 2017,5685.3
 Tue May 02 2017 00:00:00 GMT+0700 (Western Indonesia Time),20949.89,5675.81,02 May 2017,5675.81
@@ -1072,7 +1072,7 @@ Fri Sep 22 2017 00:00:00 GMT+0700 (Western Indonesia Time),22349.59,5911.71,22 S
 Sat Sep 23 2017 00:00:00 GMT+0700 (Western Indonesia Time),22296.09,5911.71,23 September 2017,5911.71
 Sun Sep 24 2017 00:00:00 GMT+0700 (Western Indonesia Time),22296.09,5911.71,24 September 2017,5911.71
 Mon Sep 25 2017 00:00:00 GMT+0700 (Western Indonesia Time),22296.09,5894.61,25 September 2017,5894.61
-Tue Sep 26 2017 00:00:00 GMT+0700 (Western Indonesia Time),22284.32,5863.96,26 September 2017,5863.96
+Tue Sep 26 2017 00:00:00 GMT+0700 (Western Indonesia Time),22296.09,5863.96,26 September 2017,5863.96
 Wed Sep 27 2017 00:00:00 GMT+0700 (Western Indonesia Time),22340.71,5863.03,27 September 2017,5863.03
 Thu Sep 28 2017 00:00:00 GMT+0700 (Western Indonesia Time),22381.2,5841.05,28 September 2017,5841.05
 Fri Sep 29 2017 00:00:00 GMT+0700 (Western Indonesia Time),22405.09,5900.85,29 September 2017,5900.85
@@ -1152,7 +1152,7 @@ Mon Dec 11 2017 00:00:00 GMT+0700 (Western Indonesia Time),24386.03,6026.63,11 D
 Tue Dec 12 2017 00:00:00 GMT+0700 (Western Indonesia Time),24504.8,6032.37,12 December 2017,6032.37
 Wed Dec 13 2017 00:00:00 GMT+0700 (Western Indonesia Time),24585.43,6054.6,13 December 2017,6054.6
 Thu Dec 14 2017 00:00:00 GMT+0700 (Western Indonesia Time),24508.66,6113.65,14 December 2017,6113.65
-Fri Dec 15 2017 00:00:00 GMT+0700 (Western Indonesia Time),24651.74,6119.42,15 December 2017,6119.42
+Fri Dec 15 2017 00:00:00 GMT+0700 (Western Indonesia Time),24508.66,6119.42,15 December 2017,6119.42
 Sat Dec 16 2017 00:00:00 GMT+0700 (Western Indonesia Time),24792.2,6119.42,16 December 2017,6119.42
 Sun Dec 17 2017 00:00:00 GMT+0700 (Western Indonesia Time),24792.2,6119.42,17 December 2017,6119.42
 Mon Dec 18 2017 00:00:00 GMT+0700 (Western Indonesia Time),24792.2,6133.96,18 December 2017,6133.96
@@ -1270,7 +1270,7 @@ Sun Apr 08 2018 00:00:00 GMT+0700 (Western Indonesia Time),23979.1,6175.05,08 Ap
 Mon Apr 09 2018 00:00:00 GMT+0700 (Western Indonesia Time),23979.1,6246.13,09 April 2018,6246.13
 Tue Apr 10 2018 00:00:00 GMT+0700 (Western Indonesia Time),24408,6325.82,10 April 2018,6325.82
 Wed Apr 11 2018 00:00:00 GMT+0700 (Western Indonesia Time),24189.45,6360.93,11 April 2018,6360.93
-Thu Apr 12 2018 00:00:00 GMT+0700 (Western Indonesia Time),24483.05,6310.8,12 April 2018,6310.8
+Thu Apr 12 2018 00:00:00 GMT+0700 (Western Indonesia Time),24189.45,6310.8,12 April 2018,6310.8
 Fri Apr 13 2018 00:00:00 GMT+0700 (Western Indonesia Time),24360.14,6270.33,13 April 2018,6270.33
 Sat Apr 14 2018 00:00:00 GMT+0700 (Western Indonesia Time),24573.04,6270.33,14 April 2018,6270.33
 Sun Apr 15 2018 00:00:00 GMT+0700 (Western Indonesia Time),24573.04,6270.33,15 April 2018,6270.33
@@ -1283,13 +1283,13 @@ Sat Apr 21 2018 00:00:00 GMT+0700 (Western Indonesia Time),24448.69,6337.69,21 A
 Sun Apr 22 2018 00:00:00 GMT+0700 (Western Indonesia Time),24448.69,6337.69,22 April 2018,6337.69
 Mon Apr 23 2018 00:00:00 GMT+0700 (Western Indonesia Time),24448.69,6308.15,23 April 2018,6308.15
 Tue Apr 24 2018 00:00:00 GMT+0700 (Western Indonesia Time),24024.13,6229.64,24 April 2018,6229.64
-Wed Apr 25 2018 00:00:00 GMT+0700 (Western Indonesia Time),24083.83,6079.85,25 April 2018,6079.85
+Wed Apr 25 2018 00:00:00 GMT+0700 (Western Indonesia Time),24024.13,6079.85,25 April 2018,6079.85
 Thu Apr 26 2018 00:00:00 GMT+0700 (Western Indonesia Time),24322.34,5909.2,26 April 2018,5909.2
 Fri Apr 27 2018 00:00:00 GMT+0700 (Western Indonesia Time),24311.19,5919.24,27 April 2018,5919.24
 Sat Apr 28 2018 00:00:00 GMT+0700 (Western Indonesia Time),24163.15,5919.24,28 April 2018,5919.24
 Sun Apr 29 2018 00:00:00 GMT+0700 (Western Indonesia Time),24163.15,5919.24,29 April 2018,5919.24
 Mon Apr 30 2018 00:00:00 GMT+0700 (Western Indonesia Time),24163.15,5994.6,30 April 2018,5994.6
-Tue May 01 2018 00:00:00 GMT+0700 (Western Indonesia Time),24099.05,5994.6,01 May 2018,5994.6
+Tue May 01 2018 00:00:00 GMT+0700 (Western Indonesia Time),24163.15,5994.6,01 May 2018,5994.6
 Wed May 02 2018 00:00:00 GMT+0700 (Western Indonesia Time),23924.98,6012.24,02 May 2018,6012.24
 Thu May 03 2018 00:00:00 GMT+0700 (Western Indonesia Time),23930.15,5858.73,03 May 2018,5858.73
 Fri May 04 2018 00:00:00 GMT+0700 (Western Indonesia Time),24262.51,5792.35,04 May 2018,5792.35
@@ -1360,7 +1360,7 @@ Sat Jul 07 2018 00:00:00 GMT+0700 (Western Indonesia Time),24776.59,5694.91,07 J
 Sun Jul 08 2018 00:00:00 GMT+0700 (Western Indonesia Time),24776.59,5694.91,08 July 2018,5694.91
 Mon Jul 09 2018 00:00:00 GMT+0700 (Western Indonesia Time),24776.59,5807.38,09 July 2018,5807.38
 Tue Jul 10 2018 00:00:00 GMT+0700 (Western Indonesia Time),24919.66,5881.76,10 July 2018,5881.76
-Wed Jul 11 2018 00:00:00 GMT+0700 (Western Indonesia Time),24700.45,5893.36,11 July 2018,5893.36
+Wed Jul 11 2018 00:00:00 GMT+0700 (Western Indonesia Time),24919.66,5893.36,11 July 2018,5893.36
 Thu Jul 12 2018 00:00:00 GMT+0700 (Western Indonesia Time),24924.89,5907.87,12 July 2018,5907.87
 Fri Jul 13 2018 00:00:00 GMT+0700 (Western Indonesia Time),25019.41,5944.07,13 July 2018,5944.07
 Sat Jul 14 2018 00:00:00 GMT+0700 (Western Indonesia Time),25064.36,5944.07,14 July 2018,5944.07
@@ -1405,7 +1405,7 @@ Tue Aug 21 2018 00:00:00 GMT+0700 (Western Indonesia Time),25822.29,5944.3,21 Au
 Wed Aug 22 2018 00:00:00 GMT+0700 (Western Indonesia Time),25733.6,5944.3,22 August 2018,5944.3
 Thu Aug 23 2018 00:00:00 GMT+0700 (Western Indonesia Time),25656.98,5982.98,23 August 2018,5982.98
 Fri Aug 24 2018 00:00:00 GMT+0700 (Western Indonesia Time),25790.35,5968.75,24 August 2018,5968.75
-Sat Aug 25 2018 00:00:00 GMT+0700 (Western Indonesia Time),26049.64,5968.75,25 August 2018,5968.75
+Sat Aug 25 2018 00:00:00 GMT+0700 (Western Indonesia Time),25790.35,5968.75,25 August 2018,5968.75
 Sun Aug 26 2018 00:00:00 GMT+0700 (Western Indonesia Time),26049.64,5968.75,26 August 2018,5968.75
 Mon Aug 27 2018 00:00:00 GMT+0700 (Western Indonesia Time),26049.64,6025.97,27 August 2018,6025.97
 Tue Aug 28 2018 00:00:00 GMT+0700 (Western Indonesia Time),26064.02,6042.65,28 August 2018,6042.65
@@ -1445,7 +1445,7 @@ Sun Sep 30 2018 00:00:00 GMT+0700 (Western Indonesia Time),26651.21,5976.55,30 S
 Mon Oct 01 2018 00:00:00 GMT+0700 (Western Indonesia Time),26651.21,5944.6,01 October 2018,5944.6
 Tue Oct 02 2018 00:00:00 GMT+0700 (Western Indonesia Time),26773.94,5875.62,02 October 2018,5875.62
 Wed Oct 03 2018 00:00:00 GMT+0700 (Western Indonesia Time),26828.39,5867.74,03 October 2018,5867.74
-Thu Oct 04 2018 00:00:00 GMT+0700 (Western Indonesia Time),26627.48,5756.62,04 October 2018,5756.62
+Thu Oct 04 2018 00:00:00 GMT+0700 (Western Indonesia Time),26828.39,5756.62,04 October 2018,5756.62
 Fri Oct 05 2018 00:00:00 GMT+0700 (Western Indonesia Time),26447.05,5731.94,05 October 2018,5731.94
 Sat Oct 06 2018 00:00:00 GMT+0700 (Western Indonesia Time),26486.78,5731.94,06 October 2018,5731.94
 Sun Oct 07 2018 00:00:00 GMT+0700 (Western Indonesia Time),26486.78,5731.94,07 October 2018,5731.94
@@ -1544,13 +1544,13 @@ Mon Jan 07 2019 00:00:00 GMT+0700 (Western Indonesia Time),23531.35,6287.22,07 J
 Tue Jan 08 2019 00:00:00 GMT+0700 (Western Indonesia Time),23787.45,6262.85,08 January 2019,6262.85
 Wed Jan 09 2019 00:00:00 GMT+0700 (Western Indonesia Time),23879.12,6272.24,09 January 2019,6272.24
 Thu Jan 10 2019 00:00:00 GMT+0700 (Western Indonesia Time),24001.92,6328.71,10 January 2019,6328.71
-Fri Jan 11 2019 00:00:00 GMT+0700 (Western Indonesia Time),23995.95,6361.47,11 January 2019,6361.47
+Fri Jan 11 2019 00:00:00 GMT+0700 (Western Indonesia Time),24001.92,6361.47,11 January 2019,6361.47
 Sat Jan 12 2019 00:00:00 GMT+0700 (Western Indonesia Time),23909.84,6361.47,12 January 2019,6361.47
 Sun Jan 13 2019 00:00:00 GMT+0700 (Western Indonesia Time),23909.84,6361.47,13 January 2019,6361.47
 Mon Jan 14 2019 00:00:00 GMT+0700 (Western Indonesia Time),23909.84,6336.12,14 January 2019,6336.12
 Tue Jan 15 2019 00:00:00 GMT+0700 (Western Indonesia Time),24065.59,6408.78,15 January 2019,6408.78
 Wed Jan 16 2019 00:00:00 GMT+0700 (Western Indonesia Time),24207.16,6413.36,16 January 2019,6413.36
-Thu Jan 17 2019 00:00:00 GMT+0700 (Western Indonesia Time),24370.1,6423.78,17 January 2019,6423.78
+Thu Jan 17 2019 00:00:00 GMT+0700 (Western Indonesia Time),24207.16,6423.78,17 January 2019,6423.78
 Fri Jan 18 2019 00:00:00 GMT+0700 (Western Indonesia Time),24706.35,6448.16,18 January 2019,6448.16
 Sat Jan 19 2019 00:00:00 GMT+0700 (Western Indonesia Time),24404.48,6448.16,19 January 2019,6448.16
 Sun Jan 20 2019 00:00:00 GMT+0700 (Western Indonesia Time),24404.48,6448.16,20 January 2019,6448.16
@@ -1562,7 +1562,7 @@ Fri Jan 25 2019 00:00:00 GMT+0700 (Western Indonesia Time),24737.2,6482.84,25 Ja
 Sat Jan 26 2019 00:00:00 GMT+0700 (Western Indonesia Time),24528.22,6482.84,26 January 2019,6482.84
 Sun Jan 27 2019 00:00:00 GMT+0700 (Western Indonesia Time),24528.22,6482.84,27 January 2019,6482.84
 Mon Jan 28 2019 00:00:00 GMT+0700 (Western Indonesia Time),24528.22,6458.71,28 January 2019,6458.71
-Tue Jan 29 2019 00:00:00 GMT+0700 (Western Indonesia Time),24579.96,6436.48,29 January 2019,6436.48
+Tue Jan 29 2019 00:00:00 GMT+0700 (Western Indonesia Time),24528.22,6436.48,29 January 2019,6436.48
 Wed Jan 30 2019 00:00:00 GMT+0700 (Western Indonesia Time),25014.86,6464.19,30 January 2019,6464.19
 Thu Jan 31 2019 00:00:00 GMT+0700 (Western Indonesia Time),24999.67,6532.97,31 January 2019,6532.97
 Fri Feb 01 2019 00:00:00 GMT+0700 (Western Indonesia Time),25063.89,6538.64,01 February 2019,6538.64
@@ -1577,7 +1577,7 @@ Sat Feb 09 2019 00:00:00 GMT+0700 (Western Indonesia Time),25053.11,6521.66,09 F
 Sun Feb 10 2019 00:00:00 GMT+0700 (Western Indonesia Time),25053.11,6521.66,10 February 2019,6521.66
 Mon Feb 11 2019 00:00:00 GMT+0700 (Western Indonesia Time),25053.11,6495,11 February 2019,6495
 Tue Feb 12 2019 00:00:00 GMT+0700 (Western Indonesia Time),25425.76,6426.32,12 February 2019,6426.32
-Wed Feb 13 2019 00:00:00 GMT+0700 (Western Indonesia Time),25543.27,6419.12,13 February 2019,6419.12
+Wed Feb 13 2019 00:00:00 GMT+0700 (Western Indonesia Time),25425.76,6419.12,13 February 2019,6419.12
 Thu Feb 14 2019 00:00:00 GMT+0700 (Western Indonesia Time),25439.39,6420.02,14 February 2019,6420.02
 Fri Feb 15 2019 00:00:00 GMT+0700 (Western Indonesia Time),25891.32,6389.09,15 February 2019,6389.09
 Sat Feb 16 2019 00:00:00 GMT+0700 (Western Indonesia Time),25891.32,6389.09,16 February 2019,6389.09
@@ -1662,7 +1662,7 @@ Sun May 05 2019 00:00:00 GMT+0700 (Western Indonesia Time),26438.48,6319.46,05 M
 Mon May 06 2019 00:00:00 GMT+0700 (Western Indonesia Time),26438.48,6256.35,06 May 2019,6256.35
 Tue May 07 2019 00:00:00 GMT+0700 (Western Indonesia Time),25965.09,6297.32,07 May 2019,6297.32
 Wed May 08 2019 00:00:00 GMT+0700 (Western Indonesia Time),25967.33,6270.2,08 May 2019,6270.2
-Thu May 09 2019 00:00:00 GMT+0700 (Western Indonesia Time),25828.36,6198.8,09 May 2019,6198.8
+Thu May 09 2019 00:00:00 GMT+0700 (Western Indonesia Time),25967.33,6198.8,09 May 2019,6198.8
 Fri May 10 2019 00:00:00 GMT+0700 (Western Indonesia Time),25942.37,6209.12,10 May 2019,6209.12
 Sat May 11 2019 00:00:00 GMT+0700 (Western Indonesia Time),25324.99,6209.12,11 May 2019,6209.12
 Sun May 12 2019 00:00:00 GMT+0700 (Western Indonesia Time),25324.99,6209.12,12 May 2019,6209.12
@@ -1699,7 +1699,7 @@ Tue Jun 11 2019 00:00:00 GMT+0700 (Western Indonesia Time),26048.51,6305.99,11 J
 Wed Jun 12 2019 00:00:00 GMT+0700 (Western Indonesia Time),26004.83,6276.18,12 June 2019,6276.18
 Thu Jun 13 2019 00:00:00 GMT+0700 (Western Indonesia Time),26106.77,6273.08,13 June 2019,6273.08
 Fri Jun 14 2019 00:00:00 GMT+0700 (Western Indonesia Time),26089.61,6250.27,14 June 2019,6250.27
-Sat Jun 15 2019 00:00:00 GMT+0700 (Western Indonesia Time),26112.53,6250.27,15 June 2019,6250.27
+Sat Jun 15 2019 00:00:00 GMT+0700 (Western Indonesia Time),26089.61,6250.27,15 June 2019,6250.27
 Sun Jun 16 2019 00:00:00 GMT+0700 (Western Indonesia Time),26112.53,6250.27,16 June 2019,6250.27
 Mon Jun 17 2019 00:00:00 GMT+0700 (Western Indonesia Time),26112.53,6190.52,17 June 2019,6190.52
 Tue Jun 18 2019 00:00:00 GMT+0700 (Western Indonesia Time),26465.54,6257.33,18 June 2019,6257.33
@@ -1811,7 +1811,7 @@ Tue Oct 01 2019 00:00:00 GMT+0700 (Western Indonesia Time),26573.04,6138.25,01 O
 Wed Oct 02 2019 00:00:00 GMT+0700 (Western Indonesia Time),26078.62,6055.43,02 October 2019,6055.43
 Thu Oct 03 2019 00:00:00 GMT+0700 (Western Indonesia Time),26201.04,6038.53,03 October 2019,6038.53
 Fri Oct 04 2019 00:00:00 GMT+0700 (Western Indonesia Time),26573.72,6061.25,04 October 2019,6061.25
-Sat Oct 05 2019 00:00:00 GMT+0700 (Western Indonesia Time),26478.02,6061.25,05 October 2019,6061.25
+Sat Oct 05 2019 00:00:00 GMT+0700 (Western Indonesia Time),26573.72,6061.25,05 October 2019,6061.25
 Sun Oct 06 2019 00:00:00 GMT+0700 (Western Indonesia Time),26478.02,6061.25,06 October 2019,6061.25
 Mon Oct 07 2019 00:00:00 GMT+0700 (Western Indonesia Time),26478.02,6000.58,07 October 2019,6000.58
 Tue Oct 08 2019 00:00:00 GMT+0700 (Western Indonesia Time),26164.04,6039.6,08 October 2019,6039.6
@@ -1864,7 +1864,7 @@ Sat Nov 23 2019 00:00:00 GMT+0700 (Western Indonesia Time),28066.47,6100.24,23 N
 Sun Nov 24 2019 00:00:00 GMT+0700 (Western Indonesia Time),28066.47,6100.24,24 November 2019,6100.24
 Mon Nov 25 2019 00:00:00 GMT+0700 (Western Indonesia Time),28066.47,6070.76,25 November 2019,6070.76
 Tue Nov 26 2019 00:00:00 GMT+0700 (Western Indonesia Time),28121.68,6026.19,26 November 2019,6026.19
-Wed Nov 27 2019 00:00:00 GMT+0700 (Western Indonesia Time),28051.41,6023.04,27 November 2019,6023.04
+Wed Nov 27 2019 00:00:00 GMT+0700 (Western Indonesia Time),28121.68,6023.04,27 November 2019,6023.04
 Thu Nov 28 2019 00:00:00 GMT+0700 (Western Indonesia Time),28051.41,5953.06,28 November 2019,5953.06
 Fri Nov 29 2019 00:00:00 GMT+0700 (Western Indonesia Time),28051.41,6011.83,29 November 2019,6011.83
 Sat Nov 30 2019 00:00:00 GMT+0700 (Western Indonesia Time),27783.04,6011.83,30 November 2019,6011.83
@@ -2013,7 +2013,7 @@ Mon Apr 20 2020 00:00:00 GMT+0700 (Western Indonesia Time),23650.44,4575.9,20 Ap
 Tue Apr 21 2020 00:00:00 GMT+0700 (Western Indonesia Time),23018.88,4501.92,21 April 2020,4501.92
 Wed Apr 22 2020 00:00:00 GMT+0700 (Western Indonesia Time),23475.82,4567.56,22 April 2020,4567.56
 Thu Apr 23 2020 00:00:00 GMT+0700 (Western Indonesia Time),23515.26,4593.55,23 April 2020,4593.55
-Fri Apr 24 2020 00:00:00 GMT+0700 (Western Indonesia Time),23775.27,4496.06,24 April 2020,4496.06
+Fri Apr 24 2020 00:00:00 GMT+0700 (Western Indonesia Time),23515.26,4496.06,24 April 2020,4496.06
 Sat Apr 25 2020 00:00:00 GMT+0700 (Western Indonesia Time),24133.78,4496.06,25 April 2020,4496.06
 Sun Apr 26 2020 00:00:00 GMT+0700 (Western Indonesia Time),24133.78,4496.06,26 April 2020,4496.06
 Mon Apr 27 2020 00:00:00 GMT+0700 (Western Indonesia Time),24133.78,4513.14,27 April 2020,4513.14
@@ -2140,7 +2140,7 @@ Tue Aug 25 2020 00:00:00 GMT+0700 (Western Indonesia Time),28248.44,5338.89,25 A
 Wed Aug 26 2020 00:00:00 GMT+0700 (Western Indonesia Time),28331.92,5340.33,26 August 2020,5340.33
 Thu Aug 27 2020 00:00:00 GMT+0700 (Western Indonesia Time),28492.27,5371.47,27 August 2020,5371.47
 Fri Aug 28 2020 00:00:00 GMT+0700 (Western Indonesia Time),28653.87,5346.66,28 August 2020,5346.66
-Sat Aug 29 2020 00:00:00 GMT+0700 (Western Indonesia Time),28430.05,5346.66,29 August 2020,5346.66
+Sat Aug 29 2020 00:00:00 GMT+0700 (Western Indonesia Time),28653.87,5346.66,29 August 2020,5346.66
 Sun Aug 30 2020 00:00:00 GMT+0700 (Western Indonesia Time),28430.05,5346.66,30 August 2020,5346.66
 Mon Aug 31 2020 00:00:00 GMT+0700 (Western Indonesia Time),28430.05,5238.49,31 August 2020,5238.49
 Tue Sep 01 2020 00:00:00 GMT+0700 (Western Indonesia Time),28645.66,5310.68,01 September 2020,5310.68
@@ -2157,7 +2157,7 @@ Fri Sep 11 2020 00:00:00 GMT+0700 (Western Indonesia Time),27665.64,5016.71,11 S
 Sat Sep 12 2020 00:00:00 GMT+0700 (Western Indonesia Time),27993.33,5016.71,12 September 2020,5016.71
 Sun Sep 13 2020 00:00:00 GMT+0700 (Western Indonesia Time),27993.33,5016.71,13 September 2020,5016.71
 Mon Sep 14 2020 00:00:00 GMT+0700 (Western Indonesia Time),27993.33,5161.83,14 September 2020,5161.83
-Tue Sep 15 2020 00:00:00 GMT+0700 (Western Indonesia Time),27995.6,5100.86,15 September 2020,5100.86
+Tue Sep 15 2020 00:00:00 GMT+0700 (Western Indonesia Time),27993.33,5100.86,15 September 2020,5100.86
 Wed Sep 16 2020 00:00:00 GMT+0700 (Western Indonesia Time),28032.38,5058.48,16 September 2020,5058.48
 Thu Sep 17 2020 00:00:00 GMT+0700 (Western Indonesia Time),27901.98,5038.4,17 September 2020,5038.4
 Fri Sep 18 2020 00:00:00 GMT+0700 (Western Indonesia Time),27657.42,5059.22,18 September 2020,5059.22
@@ -2248,7 +2248,7 @@ Fri Dec 11 2020 00:00:00 GMT+0700 (Western Indonesia Time),30046.37,5938.33,11 D
 Sat Dec 12 2020 00:00:00 GMT+0700 (Western Indonesia Time),29861.55,5938.33,12 December 2020,5938.33
 Sun Dec 13 2020 00:00:00 GMT+0700 (Western Indonesia Time),29861.55,5938.33,13 December 2020,5938.33
 Mon Dec 14 2020 00:00:00 GMT+0700 (Western Indonesia Time),29861.55,6012.52,14 December 2020,6012.52
-Tue Dec 15 2020 00:00:00 GMT+0700 (Western Indonesia Time),30199.31,6010.13,15 December 2020,6010.13
+Tue Dec 15 2020 00:00:00 GMT+0700 (Western Indonesia Time),29861.55,6010.13,15 December 2020,6010.13
 Wed Dec 16 2020 00:00:00 GMT+0700 (Western Indonesia Time),30154.54,6118.4,16 December 2020,6118.4
 Thu Dec 17 2020 00:00:00 GMT+0700 (Western Indonesia Time),30303.37,6113.38,17 December 2020,6113.38
 Fri Dec 18 2020 00:00:00 GMT+0700 (Western Indonesia Time),30179.05,6104.32,18 December 2020,6104.32
@@ -2374,7 +2374,7 @@ Fri Apr 16 2021 00:00:00 GMT+0700 (Western Indonesia Time),34200.67,6086.26,16 A
 Sat Apr 17 2021 00:00:00 GMT+0700 (Western Indonesia Time),34077.63,6086.26,17 April 2021,6086.26
 Sun Apr 18 2021 00:00:00 GMT+0700 (Western Indonesia Time),34077.63,6086.26,18 April 2021,6086.26
 Mon Apr 19 2021 00:00:00 GMT+0700 (Western Indonesia Time),34077.63,6052.54,19 April 2021,6052.54
-Tue Apr 20 2021 00:00:00 GMT+0700 (Western Indonesia Time),33821.3,6038.32,20 April 2021,6038.32
+Tue Apr 20 2021 00:00:00 GMT+0700 (Western Indonesia Time),34077.63,6038.32,20 April 2021,6038.32
 Wed Apr 21 2021 00:00:00 GMT+0700 (Western Indonesia Time),34137.31,5993.24,21 April 2021,5993.24
 Thu Apr 22 2021 00:00:00 GMT+0700 (Western Indonesia Time),33815.9,5994.18,22 April 2021,5994.18
 Fri Apr 23 2021 00:00:00 GMT+0700 (Western Indonesia Time),34043.49,6016.86,23 April 2021,6016.86
@@ -2482,7 +2482,7 @@ Mon Aug 02 2021 00:00:00 GMT+0700 (Western Indonesia Time),34838.16,6096.54,02 A
 Tue Aug 03 2021 00:00:00 GMT+0700 (Western Indonesia Time),35116.4,6130.57,03 August 2021,6130.57
 Wed Aug 04 2021 00:00:00 GMT+0700 (Western Indonesia Time),34792.67,6159.03,04 August 2021,6159.03
 Thu Aug 05 2021 00:00:00 GMT+0700 (Western Indonesia Time),35064.25,6205.42,05 August 2021,6205.42
-Fri Aug 06 2021 00:00:00 GMT+0700 (Western Indonesia Time),35208.51,6203.43,06 August 2021,6203.43
+Fri Aug 06 2021 00:00:00 GMT+0700 (Western Indonesia Time),35064.25,6203.43,06 August 2021,6203.43
 Sat Aug 07 2021 00:00:00 GMT+0700 (Western Indonesia Time),35101.85,6203.43,07 August 2021,6203.43
 Sun Aug 08 2021 00:00:00 GMT+0700 (Western Indonesia Time),35101.85,6203.43,08 August 2021,6203.43
 Mon Aug 09 2021 00:00:00 GMT+0700 (Western Indonesia Time),35101.85,6127.46,09 August 2021,6127.46
@@ -2689,7 +2689,7 @@ Fri Feb 25 2022 00:00:00 GMT+0700 (Western Indonesia Time),34058.75,6888.17,25 F
 Sat Feb 26 2022 00:00:00 GMT+0700 (Western Indonesia Time),33892.6,6888.17,26 February 2022,6888.17
 Sun Feb 27 2022 00:00:00 GMT+0700 (Western Indonesia Time),33892.6,6888.17,27 February 2022,6888.17
 Mon Feb 28 2022 00:00:00 GMT+0700 (Western Indonesia Time),33892.6,6888.17,28 February 2022,6888.17
-Tue Mar 01 2022 00:00:00 GMT+0700 (Western Indonesia Time),33294.95,6921.44,01 March 2022,6921.44
+Tue Mar 01 2022 00:00:00 GMT+0700 (Western Indonesia Time),33892.6,6921.44,01 March 2022,6921.44
 Wed Mar 02 2022 00:00:00 GMT+0700 (Western Indonesia Time),33891.35,6868.4,02 March 2022,6868.4
 Thu Mar 03 2022 00:00:00 GMT+0700 (Western Indonesia Time),33794.66,6868.4,03 March 2022,6868.4
 Fri Mar 04 2022 00:00:00 GMT+0700 (Western Indonesia Time),33614.8,6928.33,04 March 2022,6928.33
@@ -2790,7 +2790,7 @@ Mon Jun 06 2022 00:00:00 GMT+0700 (Western Indonesia Time),32915.78,7096.58,06 J
 Tue Jun 07 2022 00:00:00 GMT+0700 (Western Indonesia Time),33180.14,7141.04,07 June 2022,7141.04
 Wed Jun 08 2022 00:00:00 GMT+0700 (Western Indonesia Time),32910.9,7193.31,08 June 2022,7193.31
 Thu Jun 09 2022 00:00:00 GMT+0700 (Western Indonesia Time),32272.79,7182.83,09 June 2022,7182.83
-Fri Jun 10 2022 00:00:00 GMT+0700 (Western Indonesia Time),31392.79,7086.65,10 June 2022,7086.65
+Fri Jun 10 2022 00:00:00 GMT+0700 (Western Indonesia Time),32272.79,7086.65,10 June 2022,7086.65
 Sat Jun 11 2022 00:00:00 GMT+0700 (Western Indonesia Time),30516.74,7086.65,11 June 2022,7086.65
 Sun Jun 12 2022 00:00:00 GMT+0700 (Western Indonesia Time),30516.74,7086.65,12 June 2022,7086.65
 Mon Jun 13 2022 00:00:00 GMT+0700 (Western Indonesia Time),30516.74,6995.44,13 June 2022,6995.44
@@ -2879,7 +2879,7 @@ Sat Sep 03 2022 00:00:00 GMT+0700 (Western Indonesia Time),31145.3,7177.18,03 Se
 Sun Sep 04 2022 00:00:00 GMT+0700 (Western Indonesia Time),31145.3,7177.18,04 September 2022,7177.18
 Mon Sep 05 2022 00:00:00 GMT+0700 (Western Indonesia Time),31145.3,7231.88,05 September 2022,7231.88
 Tue Sep 06 2022 00:00:00 GMT+0700 (Western Indonesia Time),31145.3,7233.15,06 September 2022,7233.15
-Wed Sep 07 2022 00:00:00 GMT+0700 (Western Indonesia Time),31581.28,7186.76,07 September 2022,7186.76
+Wed Sep 07 2022 00:00:00 GMT+0700 (Western Indonesia Time),31145.3,7186.76,07 September 2022,7186.76
 Thu Sep 08 2022 00:00:00 GMT+0700 (Western Indonesia Time),31774.52,7232.02,08 September 2022,7232.02
 Fri Sep 09 2022 00:00:00 GMT+0700 (Western Indonesia Time),32151.71,7242.66,09 September 2022,7242.66
 Sat Sep 10 2022 00:00:00 GMT+0700 (Western Indonesia Time),32381.34,7242.66,10 September 2022,7242.66
@@ -2892,7 +2892,7 @@ Fri Sep 16 2022 00:00:00 GMT+0700 (Western Indonesia Time),30822.42,7168.87,16 S
 Sat Sep 17 2022 00:00:00 GMT+0700 (Western Indonesia Time),31019.68,7168.87,17 September 2022,7168.87
 Sun Sep 18 2022 00:00:00 GMT+0700 (Western Indonesia Time),31019.68,7168.87,18 September 2022,7168.87
 Mon Sep 19 2022 00:00:00 GMT+0700 (Western Indonesia Time),31019.68,7195.49,19 September 2022,7195.49
-Tue Sep 20 2022 00:00:00 GMT+0700 (Western Indonesia Time),30706.23,7196.95,20 September 2022,7196.95
+Tue Sep 20 2022 00:00:00 GMT+0700 (Western Indonesia Time),31019.68,7196.95,20 September 2022,7196.95
 Wed Sep 21 2022 00:00:00 GMT+0700 (Western Indonesia Time),30183.78,7188.31,21 September 2022,7188.31
 Thu Sep 22 2022 00:00:00 GMT+0700 (Western Indonesia Time),30076.68,7218.91,22 September 2022,7218.91
 Fri Sep 23 2022 00:00:00 GMT+0700 (Western Indonesia Time),29590.41,7178.58,23 September 2022,7178.58
@@ -2950,7 +2950,7 @@ Sun Nov 13 2022 00:00:00 GMT+0700 (Western Indonesia Time),33536.7,7089.21,13 No
 Mon Nov 14 2022 00:00:00 GMT+0700 (Western Indonesia Time),33536.7,7019.39,14 November 2022,7019.39
 Tue Nov 15 2022 00:00:00 GMT+0700 (Western Indonesia Time),33592.92,7035.5,15 November 2022,7035.5
 Wed Nov 16 2022 00:00:00 GMT+0700 (Western Indonesia Time),33553.83,7014.38,16 November 2022,7014.38
-Thu Nov 17 2022 00:00:00 GMT+0700 (Western Indonesia Time),33546.32,7044.99,17 November 2022,7044.99
+Thu Nov 17 2022 00:00:00 GMT+0700 (Western Indonesia Time),33553.83,7044.99,17 November 2022,7044.99
 Fri Nov 18 2022 00:00:00 GMT+0700 (Western Indonesia Time),33745.69,7082.18,18 November 2022,7082.18
 Sat Nov 19 2022 00:00:00 GMT+0700 (Western Indonesia Time),33700.28,7082.18,19 November 2022,7082.18
 Sun Nov 20 2022 00:00:00 GMT+0700 (Western Indonesia Time),33700.28,7082.18,20 November 2022,7082.18
@@ -2979,7 +2979,7 @@ Mon Dec 12 2022 00:00:00 GMT+0700 (Western Indonesia Time),34005.04,6734.45,12 D
 Tue Dec 13 2022 00:00:00 GMT+0700 (Western Indonesia Time),34108.64,6810.32,13 December 2022,6810.32
 Wed Dec 14 2022 00:00:00 GMT+0700 (Western Indonesia Time),33966.35,6801.75,14 December 2022,6801.75
 Thu Dec 15 2022 00:00:00 GMT+0700 (Western Indonesia Time),33202.22,6751.86,15 December 2022,6751.86
-Fri Dec 16 2022 00:00:00 GMT+0700 (Western Indonesia Time),32920.46,6812.19,16 December 2022,6812.19
+Fri Dec 16 2022 00:00:00 GMT+0700 (Western Indonesia Time),33202.22,6812.19,16 December 2022,6812.19
 Sat Dec 17 2022 00:00:00 GMT+0700 (Western Indonesia Time),32757.54,6812.19,17 December 2022,6812.19
 Sun Dec 18 2022 00:00:00 GMT+0700 (Western Indonesia Time),32757.54,6812.19,18 December 2022,6812.19
 Mon Dec 19 2022 00:00:00 GMT+0700 (Western Indonesia Time),32757.54,6779.7,19 December 2022,6779.7
@@ -3118,12 +3118,12 @@ Sun Apr 30 2023 00:00:00 GMT+0700 (Western Indonesia Time),34051.7,6915.72,30 Ap
 Mon May 01 2023 00:00:00 GMT+0700 (Western Indonesia Time),34051.7,6915.72,01 May 2023,6915.72
 Tue May 02 2023 00:00:00 GMT+0700 (Western Indonesia Time),33684.53,6863.3,02 May 2023,6863.3
 Wed May 03 2023 00:00:00 GMT+0700 (Western Indonesia Time),33414.24,6812.72,03 May 2023,6812.72
-Thu May 04 2023 00:00:00 GMT+0700 (Western Indonesia Time),33127.74,6844.03,04 May 2023,6844.03
+Thu May 04 2023 00:00:00 GMT+0700 (Western Indonesia Time),33414.24,6844.03,04 May 2023,6844.03
 Fri May 05 2023 00:00:00 GMT+0700 (Western Indonesia Time),33674.38,6787.63,05 May 2023,6787.63
 Sat May 06 2023 00:00:00 GMT+0700 (Western Indonesia Time),33618.69,6787.63,06 May 2023,6787.63
 Sun May 07 2023 00:00:00 GMT+0700 (Western Indonesia Time),33618.69,6787.63,07 May 2023,6787.63
 Mon May 08 2023 00:00:00 GMT+0700 (Western Indonesia Time),33618.69,6769.63,08 May 2023,6769.63
-Tue May 09 2023 00:00:00 GMT+0700 (Western Indonesia Time),33561.81,6779.98,09 May 2023,6779.98
+Tue May 09 2023 00:00:00 GMT+0700 (Western Indonesia Time),33618.69,6779.98,09 May 2023,6779.98
 Wed May 10 2023 00:00:00 GMT+0700 (Western Indonesia Time),33531.33,6811.9,10 May 2023,6811.9
 Thu May 11 2023 00:00:00 GMT+0700 (Western Indonesia Time),33309.51,6755.94,11 May 2023,6755.94
 Fri May 12 2023 00:00:00 GMT+0700 (Western Indonesia Time),33300.62,6707.76,12 May 2023,6707.76
@@ -3186,7 +3186,7 @@ Fri Jul 07 2023 00:00:00 GMT+0700 (Western Indonesia Time),33734.88,6716.46,07 J
 Sat Jul 08 2023 00:00:00 GMT+0700 (Western Indonesia Time),33944.4,6716.46,08 July 2023,6716.46
 Sun Jul 09 2023 00:00:00 GMT+0700 (Western Indonesia Time),33944.4,6716.46,09 July 2023,6716.46
 Mon Jul 10 2023 00:00:00 GMT+0700 (Western Indonesia Time),33944.4,6731.04,10 July 2023,6731.04
-Tue Jul 11 2023 00:00:00 GMT+0700 (Western Indonesia Time),34261.42,6796.92,11 July 2023,6796.92
+Tue Jul 11 2023 00:00:00 GMT+0700 (Western Indonesia Time),33944.4,6796.92,11 July 2023,6796.92
 Wed Jul 12 2023 00:00:00 GMT+0700 (Western Indonesia Time),34347.43,6808.21,12 July 2023,6808.21
 Thu Jul 13 2023 00:00:00 GMT+0700 (Western Indonesia Time),34395.14,6810.21,13 July 2023,6810.21
 Fri Jul 14 2023 00:00:00 GMT+0700 (Western Indonesia Time),34509.03,6869.57,14 July 2023,6869.57
@@ -3195,7 +3195,7 @@ Sun Jul 16 2023 00:00:00 GMT+0700 (Western Indonesia Time),34585.35,6869.57,16 J
 Mon Jul 17 2023 00:00:00 GMT+0700 (Western Indonesia Time),34585.35,6867.14,17 July 2023,6867.14
 Tue Jul 18 2023 00:00:00 GMT+0700 (Western Indonesia Time),34951.93,6830.2,18 July 2023,6830.2
 Wed Jul 19 2023 00:00:00 GMT+0700 (Western Indonesia Time),35061.21,6830.2,19 July 2023,6830.2
-Thu Jul 20 2023 00:00:00 GMT+0700 (Western Indonesia Time),35225.18,6864.19,20 July 2023,6864.19
+Thu Jul 20 2023 00:00:00 GMT+0700 (Western Indonesia Time),35061.21,6864.19,20 July 2023,6864.19
 Fri Jul 21 2023 00:00:00 GMT+0700 (Western Indonesia Time),35227.69,6880.8,21 July 2023,6880.8
 Sat Jul 22 2023 00:00:00 GMT+0700 (Western Indonesia Time),35411.24,6880.8,22 July 2023,6880.8
 Sun Jul 23 2023 00:00:00 GMT+0700 (Western Indonesia Time),35411.24,6880.8,23 July 2023,6880.8
@@ -3281,7 +3281,7 @@ Tue Oct 10 2023 00:00:00 GMT+0700 (Western Indonesia Time),33739.3,6922.19,10 Oc
 Wed Oct 11 2023 00:00:00 GMT+0700 (Western Indonesia Time),33804.87,6931.75,11 October 2023,6931.75
 Thu Oct 12 2023 00:00:00 GMT+0700 (Western Indonesia Time),33631.14,6935.15,12 October 2023,6935.15
 Fri Oct 13 2023 00:00:00 GMT+0700 (Western Indonesia Time),33670.29,6926.78,13 October 2023,6926.78
-Sat Oct 14 2023 00:00:00 GMT+0700 (Western Indonesia Time),33984.54,6926.78,14 October 2023,6926.78
+Sat Oct 14 2023 00:00:00 GMT+0700 (Western Indonesia Time),33670.29,6926.78,14 October 2023,6926.78
 Sun Oct 15 2023 00:00:00 GMT+0700 (Western Indonesia Time),33984.54,6926.78,15 October 2023,6926.78
 Mon Oct 16 2023 00:00:00 GMT+0700 (Western Indonesia Time),33984.54,6896.29,16 October 2023,6896.29
 Tue Oct 17 2023 00:00:00 GMT+0700 (Western Indonesia Time),33997.65,6939.62,17 October 2023,6939.62
@@ -3307,7 +3307,7 @@ Sun Nov 05 2023 00:00:00 GMT+0700 (Western Indonesia Time),34095.86,6788.85,05 N
 Mon Nov 06 2023 00:00:00 GMT+0700 (Western Indonesia Time),34095.86,6878.84,06 November 2023,6878.84
 Tue Nov 07 2023 00:00:00 GMT+0700 (Western Indonesia Time),34152.6,6843.79,07 November 2023,6843.79
 Wed Nov 08 2023 00:00:00 GMT+0700 (Western Indonesia Time),34112.27,6804.11,08 November 2023,6804.11
-Thu Nov 09 2023 00:00:00 GMT+0700 (Western Indonesia Time),33891.94,6838.23,09 November 2023,6838.23
+Thu Nov 09 2023 00:00:00 GMT+0700 (Western Indonesia Time),34112.27,6838.23,09 November 2023,6838.23
 Fri Nov 10 2023 00:00:00 GMT+0700 (Western Indonesia Time),34283.1,6809.26,10 November 2023,6809.26
 Sat Nov 11 2023 00:00:00 GMT+0700 (Western Indonesia Time),34337.87,6809.26,11 November 2023,6809.26
 Sun Nov 12 2023 00:00:00 GMT+0700 (Western Indonesia Time),34337.87,6809.26,12 November 2023,6809.26
@@ -3393,7 +3393,7 @@ Tue Jan 30 2024 00:00:00 GMT+0700 (Western Indonesia Time),38467.31,7192.22,30 J
 Wed Jan 31 2024 00:00:00 GMT+0700 (Western Indonesia Time),38150.3,7207.94,31 January 2024,7207.94
 Thu Feb 01 2024 00:00:00 GMT+0700 (Western Indonesia Time),38519.84,7201.7,01 February 2024,7201.7
 Fri Feb 02 2024 00:00:00 GMT+0700 (Western Indonesia Time),38654.42,7238.79,02 February 2024,7238.79
-Sat Feb 03 2024 00:00:00 GMT+0700 (Western Indonesia Time),38380.12,7238.79,03 February 2024,7238.79
+Sat Feb 03 2024 00:00:00 GMT+0700 (Western Indonesia Time),38654.42,7238.79,03 February 2024,7238.79
 Sun Feb 04 2024 00:00:00 GMT+0700 (Western Indonesia Time),38380.12,7238.79,04 February 2024,7238.79
 Mon Feb 05 2024 00:00:00 GMT+0700 (Western Indonesia Time),38380.12,7198.62,05 February 2024,7198.62
 Tue Feb 06 2024 00:00:00 GMT+0700 (Western Indonesia Time),38521.36,7247.41,06 February 2024,7247.41
@@ -3447,7 +3447,7 @@ Sun Mar 24 2024 00:00:00 GMT+0700 (Western Indonesia Time),39313.64,7350.15,24 M
 Mon Mar 25 2024 00:00:00 GMT+0700 (Western Indonesia Time),39313.64,7377.76,25 March 2024,7377.76
 Tue Mar 26 2024 00:00:00 GMT+0700 (Western Indonesia Time),39282.33,7365.66,26 March 2024,7365.66
 Wed Mar 27 2024 00:00:00 GMT+0700 (Western Indonesia Time),39760.08,7310.09,27 March 2024,7310.09
-Thu Mar 28 2024 00:00:00 GMT+0700 (Western Indonesia Time),39807.37,7288.81,28 March 2024,7288.81
+Thu Mar 28 2024 00:00:00 GMT+0700 (Western Indonesia Time),39760.08,7288.81,28 March 2024,7288.81
 Fri Mar 29 2024 00:00:00 GMT+0700 (Western Indonesia Time),39566.85,7288.81,29 March 2024,7288.81
 Sat Mar 30 2024 00:00:00 GMT+0700 (Western Indonesia Time),39566.85,7288.81,30 March 2024,7288.81
 Sun Mar 31 2024 00:00:00 GMT+0700 (Western Indonesia Time),39566.85,7288.81,31 March 2024,7288.81
@@ -3456,7 +3456,7 @@ Tue Apr 02 2024 00:00:00 GMT+0700 (Western Indonesia Time),39170.24,7236.98,02 A
 Wed Apr 03 2024 00:00:00 GMT+0700 (Western Indonesia Time),39127.14,7166.84,03 April 2024,7166.84
 Thu Apr 04 2024 00:00:00 GMT+0700 (Western Indonesia Time),38596.98,7254.4,04 April 2024,7254.4
 Fri Apr 05 2024 00:00:00 GMT+0700 (Western Indonesia Time),38904.04,7286.88,05 April 2024,7286.88
-Sat Apr 06 2024 00:00:00 GMT+0700 (Western Indonesia Time),38892.8,7286.88,06 April 2024,7286.88
+Sat Apr 06 2024 00:00:00 GMT+0700 (Western Indonesia Time),38904.04,7286.88,06 April 2024,7286.88
 Sun Apr 07 2024 00:00:00 GMT+0700 (Western Indonesia Time),38892.8,7286.88,07 April 2024,7286.88
 Mon Apr 08 2024 00:00:00 GMT+0700 (Western Indonesia Time),38892.8,7286.88,08 April 2024,7286.88
 Tue Apr 09 2024 00:00:00 GMT+0700 (Western Indonesia Time),38883.67,7286.88,09 April 2024,7286.88
@@ -3489,7 +3489,7 @@ Sun May 05 2024 00:00:00 GMT+0700 (Western Indonesia Time),38852.27,7134.72,05 M
 Mon May 06 2024 00:00:00 GMT+0700 (Western Indonesia Time),38852.27,7135.89,06 May 2024,7135.89
 Tue May 07 2024 00:00:00 GMT+0700 (Western Indonesia Time),38884.26,7123.61,07 May 2024,7123.61
 Wed May 08 2024 00:00:00 GMT+0700 (Western Indonesia Time),39056.39,7088.79,08 May 2024,7088.79
-Thu May 09 2024 00:00:00 GMT+0700 (Western Indonesia Time),39387.76,7088.79,09 May 2024,7088.79
+Thu May 09 2024 00:00:00 GMT+0700 (Western Indonesia Time),39056.39,7088.79,09 May 2024,7088.79
 Fri May 10 2024 00:00:00 GMT+0700 (Western Indonesia Time),39512.84,7088.79,10 May 2024,7088.79
 Sat May 11 2024 00:00:00 GMT+0700 (Western Indonesia Time),39431.51,7088.79,11 May 2024,7088.79
 Sun May 12 2024 00:00:00 GMT+0700 (Western Indonesia Time),39431.51,7088.79,12 May 2024,7088.79
@@ -3601,7 +3601,7 @@ Sun Aug 25 2024 00:00:00 GMT+0700 (Western Indonesia Time),41240.52,7544.3,25 Au
 Mon Aug 26 2024 00:00:00 GMT+0700 (Western Indonesia Time),41240.52,7606.19,26 August 2024,7606.19
 Tue Aug 27 2024 00:00:00 GMT+0700 (Western Indonesia Time),41250.5,7597.88,27 August 2024,7597.88
 Wed Aug 28 2024 00:00:00 GMT+0700 (Western Indonesia Time),41091.42,7658.88,28 August 2024,7658.88
-Thu Aug 29 2024 00:00:00 GMT+0700 (Western Indonesia Time),41335.05,7627.6,29 August 2024,7627.6
+Thu Aug 29 2024 00:00:00 GMT+0700 (Western Indonesia Time),41091.42,7627.6,29 August 2024,7627.6
 Fri Aug 30 2024 00:00:00 GMT+0700 (Western Indonesia Time),41563.08,7670.73,30 August 2024,7670.73
 Sat Aug 31 2024 00:00:00 GMT+0700 (Western Indonesia Time),40936.93,7670.73,31 August 2024,7670.73
 Sun Sep 01 2024 00:00:00 GMT+0700 (Western Indonesia Time),40936.93,7670.73,01 September 2024,7670.73
@@ -3750,7 +3750,7 @@ Tue Jan 21 2025 00:00:00 GMT+0700 (Western Indonesia Time),44025.81,7181.82,21 J
 Wed Jan 22 2025 00:00:00 GMT+0700 (Western Indonesia Time),44156.73,7257.13,22 January 2025,7257.13
 Thu Jan 23 2025 00:00:00 GMT+0700 (Western Indonesia Time),44565.07,7232.64,23 January 2025,7232.64
 Fri Jan 24 2025 00:00:00 GMT+0700 (Western Indonesia Time),44424.25,7166.06,24 January 2025,7166.06
-Sat Jan 25 2025 00:00:00 GMT+0700 (Western Indonesia Time),44713.58,7166.06,25 January 2025,7166.06
+Sat Jan 25 2025 00:00:00 GMT+0700 (Western Indonesia Time),44424.25,7166.06,25 January 2025,7166.06
 Sun Jan 26 2025 00:00:00 GMT+0700 (Western Indonesia Time),44713.58,7166.06,26 January 2025,7166.06
 Mon Jan 27 2025 00:00:00 GMT+0700 (Western Indonesia Time),44713.58,7166.06,27 January 2025,7166.06
 Tue Jan 28 2025 00:00:00 GMT+0700 (Western Indonesia Time),44850.35,7166.06,28 January 2025,7166.06
@@ -3853,7 +3853,7 @@ Sun May 04 2025 00:00:00 GMT+0700 (Western Indonesia Time),41218.83,6815.73,04 M
 Mon May 05 2025 00:00:00 GMT+0700 (Western Indonesia Time),41218.83,6831.95,05 May 2025,6831.95
 Tue May 06 2025 00:00:00 GMT+0700 (Western Indonesia Time),40829,6898.2,06 May 2025,6898.2
 Wed May 07 2025 00:00:00 GMT+0700 (Western Indonesia Time),41113.97,6926.23,07 May 2025,6926.23
-Thu May 08 2025 00:00:00 GMT+0700 (Western Indonesia Time),41368.45,6827.75,08 May 2025,6827.75
+Thu May 08 2025 00:00:00 GMT+0700 (Western Indonesia Time),41113.97,6827.75,08 May 2025,6827.75
 Fri May 09 2025 00:00:00 GMT+0700 (Western Indonesia Time),41249.38,6832.8,09 May 2025,6832.8
 Sat May 10 2025 00:00:00 GMT+0700 (Western Indonesia Time),42410.1,6832.8,10 May 2025,6832.8
 Sun May 11 2025 00:00:00 GMT+0700 (Western Indonesia Time),42410.1,6832.8,11 May 2025,6832.8
@@ -3862,7 +3862,7 @@ Tue May 13 2025 00:00:00 GMT+0700 (Western Indonesia Time),42140.43,6832.8,13 Ma
 Wed May 14 2025 00:00:00 GMT+0700 (Western Indonesia Time),42051.06,6979.88,14 May 2025,6979.88
 Thu May 15 2025 00:00:00 GMT+0700 (Western Indonesia Time),42322.75,7040.16,15 May 2025,7040.16
 Fri May 16 2025 00:00:00 GMT+0700 (Western Indonesia Time),42654.74,7106.53,16 May 2025,7106.53
-Sat May 17 2025 00:00:00 GMT+0700 (Western Indonesia Time),42792.07,7106.53,17 May 2025,7106.53
+Sat May 17 2025 00:00:00 GMT+0700 (Western Indonesia Time),42654.74,7106.53,17 May 2025,7106.53
 Sun May 18 2025 00:00:00 GMT+0700 (Western Indonesia Time),42792.07,7106.53,18 May 2025,7106.53
 Mon May 19 2025 00:00:00 GMT+0700 (Western Indonesia Time),42792.07,7141.09,19 May 2025,7141.09
 Tue May 20 2025 00:00:00 GMT+0700 (Western Indonesia Time),42677.24,7094.6,20 May 2025,7094.6
@@ -3881,7 +3881,7 @@ Sun Jun 01 2025 00:00:00 GMT+0700 (Western Indonesia Time),42305.48,7175.82,01 J
 Mon Jun 02 2025 00:00:00 GMT+0700 (Western Indonesia Time),42305.48,7053.86,02 June 2025,7053.86
 Tue Jun 03 2025 00:00:00 GMT+0700 (Western Indonesia Time),42519.64,7044.82,03 June 2025,7044.82
 Wed Jun 04 2025 00:00:00 GMT+0700 (Western Indonesia Time),42427.74,7069.04,04 June 2025,7069.04
-Thu Jun 05 2025 00:00:00 GMT+0700 (Western Indonesia Time),42319.74,7112.389999999999,05 June 2025,7112.389999999999
+Thu Jun 05 2025 00:00:00 GMT+0700 (Western Indonesia Time),42427.74,7112.389999999999,05 June 2025,7112.389999999999
 Fri Jun 06 2025 00:00:00 GMT+0700 (Western Indonesia Time),42762.87,7112.389999999999,06 June 2025,7112.389999999999
 Sat Jun 07 2025 00:00:00 GMT+0700 (Western Indonesia Time),42761.76,7112.389999999999,07 June 2025,7112.389999999999
 Sun Jun 08 2025 00:00:00 GMT+0700 (Western Indonesia Time),42761.76,7112.389999999999,08 June 2025,7112.389999999999
@@ -3971,7 +3971,7 @@ Sat Aug 30 2025 00:00:00 GMT+0700 (Western Indonesia Time),45295.81,7830.4900000
 Sun Aug 31 2025 00:00:00 GMT+0700 (Western Indonesia Time),45295.81,7830.490000000001,31 August 2025,7830.490000000001
 Mon Sep 01 2025 00:00:00 GMT+0700 (Western Indonesia Time),45295.81,7710.22,01 September 2025,7710.22
 Tue Sep 02 2025 00:00:00 GMT+0700 (Western Indonesia Time),45295.81,7801.58,02 September 2025,7801.58
-Wed Sep 03 2025 00:00:00 GMT+0700 (Western Indonesia Time),45271.23,7885.86,03 September 2025,7885.86
+Wed Sep 03 2025 00:00:00 GMT+0700 (Western Indonesia Time),45295.81,7885.86,03 September 2025,7885.86
 Thu Sep 04 2025 00:00:00 GMT+0700 (Western Indonesia Time),45621.29,7867.35,04 September 2025,7867.35
 Fri Sep 05 2025 00:00:00 GMT+0700 (Western Indonesia Time),45400.86,7867.35,05 September 2025,7867.35
 Sat Sep 06 2025 00:00:00 GMT+0700 (Western Indonesia Time),45514.95,7867.35,06 September 2025,7867.35
